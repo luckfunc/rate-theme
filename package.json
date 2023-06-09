@@ -1,0 +1,21 @@
+{
+  "name": "rate-theme",
+  "displayName": "rate-theme",
+  "description": "Rate Theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rate Theme for VS code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rate Theme for VS code-color-theme.json"
+      }
+    ]
+  }
+}
