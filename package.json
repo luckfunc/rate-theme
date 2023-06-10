@@ -2,7 +2,7 @@
   "name": "rate-theme",
   "displayName": "Rate Theme",
   "description": "Rate Theme for VS Code",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "Roll7",
   "engines": {
     "vscode": "^1.76.1"
@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rate Theme for VS code",
+        "label": "Rate Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rate Theme for VS code-color-theme.json"
+        "path": "./themes/rate-dark.json"
       }
     ]
   }
