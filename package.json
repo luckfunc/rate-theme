@@ -3,8 +3,9 @@
   "displayName": "rate-theme",
   "description": "Rate Theme for VS Code",
   "version": "0.0.1",
+  "publisher": "Roll7",
   "engines": {
-    "vscode": "^1.79.0"
+    "vscode": "^1.76.1"
   },
   "categories": [
     "Themes"
