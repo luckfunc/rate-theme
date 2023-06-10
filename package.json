@@ -19,6 +19,11 @@
         "path": "./themes/rate-dark.json"
       },
       {
+        "label": "Rate Dark Cold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rate-dark-cold.json"
+      },
+      {
         "label": "Rate Light",
         "uiTheme": "vs",
         "path": "./themes/rate-light.json"
