@@ -2,4 +2,4 @@
 
 ## Thanks
 
-This project is based on [vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse).
+This project is based on [vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) and  [visual-studio-code](https://github.com/nordtheme/visual-studio-code).
