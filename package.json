@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://github-production-user-asset-6210df.s3.amazonaws.com/85545304/244856107-a7a03694-6532-411c-af1e-1fc51c4a8945.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
