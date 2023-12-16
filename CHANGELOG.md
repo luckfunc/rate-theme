@@ -9,3 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 - support version >= 1.58.2
+
+## [0.0.10]
+
+- Change Background Color
